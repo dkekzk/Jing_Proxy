@@ -1,10 +1,10 @@
 # Apple News
-DOMAIN,gspe1-ssl.ls.apple.com,PROXY
-DOMAIN,gspe12-ssl.ls.apple.com,PROXY
-USER-AGENT,AppleNews*,PROXY
-USER-AGENT,com.apple.news*,PROXY
-DOMAIN-SUFFIX,apple.news,PROXY
-DOMAIN,news-client.apple.com,PROXY
-DOMAIN,news-edge.apple.com,PROXY
-DOMAIN,news-events.apple.com,PROXY
-DOMAIN,apple.comscoreresearch.com,PROXY
+DOMAIN,gspe1-ssl.ls.apple.com,📰 AppleNews
+DOMAIN,gspe12-ssl.ls.apple.com,📰 AppleNews
+USER-AGENT,AppleNews*,📰 AppleNews
+USER-AGENT,com.apple.news*,📰 AppleNews
+DOMAIN-SUFFIX,apple.news,📰 AppleNews
+DOMAIN,news-client.apple.com,📰 AppleNews
+DOMAIN,news-edge.apple.com,📰 AppleNews
+DOMAIN,news-events.apple.com,📰 AppleNews
+DOMAIN,apple.comscoreresearch.com,📰 AppleNews
