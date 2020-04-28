@@ -8,3 +8,14 @@ DOMAIN,news-client.apple.com,📰 AppleNews
 DOMAIN,news-edge.apple.com,📰 AppleNews
 DOMAIN,news-events.apple.com,📰 AppleNews
 DOMAIN,apple.comscoreresearch.com,📰 AppleNews
+# Apple_API.list
+host-suffix, aaplimg.com, 📰 AppleNews
+host-suffix, apple.co, 📰 AppleNews
+host-suffix, apple.com, 📰 AppleNews
+host-suffix, apple-cloudkit.com, 📰 AppleNews
+host-suffix, appsto.re, 📰 AppleNews
+host-suffix, cdn-apple.com, 📰 AppleNews
+host-suffix, icloud.com, 📰 AppleNews
+host-suffix, icloud-content.com, 📰 AppleNews
+host-suffix, itunes.com, 📰 AppleNews
+host-suffix, me.com, 📰 AppleNews
