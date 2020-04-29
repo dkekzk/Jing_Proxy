@@ -1,11 +1,11 @@
 #ComedyCenter
-HOST-SUFFIX,cc.com,📺 美区媒体
+DOMAIN-SUFFIX,cc.com,📺 美区媒体
 USER-AGENT,Comedy*,📺 美区媒体
 
 #sling
-HOST-SUFFIX,sling.com,📺 美区媒体
+DOMAIN-SUFFIX,sling.com,📺 美区媒体
 USER-AGENT,Sling*,📺 美区媒体
 
 
-HOST-SUFFIX,economist.com,📺 美区媒体
-HOST-SUFFIX,go.cnn.com,📺 美区媒体
+DOMAIN-SUFFIX,economist.com,📺 美区媒体
+DOMAIN-SUFFIX,go.cnn.com,📺 美区媒体
